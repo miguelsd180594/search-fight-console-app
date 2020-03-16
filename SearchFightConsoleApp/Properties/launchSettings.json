@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SearchFightConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "java .net"
+    }
+  }
+}
